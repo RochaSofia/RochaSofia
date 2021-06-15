@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
 ![Sofia's Stats](https://github-readme-stats.vercel.app/api?username=RochaSofia&show_icons=true&theme=radical)
 ![Sofia's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RochaSofia&layout=compact&theme=radical)
